@@ -90,7 +90,7 @@ body {
     }
     @keyframes mymove {
       from {right: -30px;}
-      to {right: 100px;}
+      to {right: 300px;}
     }
 
     .heading-message h2 {
