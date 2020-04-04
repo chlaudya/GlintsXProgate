@@ -71,6 +71,9 @@ body {
     color: yellow;
   }
   
+  .menu-icon {
+    display: none;
+  }
    
 .heading-tag{
       height: 200px;
@@ -250,4 +253,5 @@ body {
       display: inline;
       padding-top: 30px;
   }
+  
   
