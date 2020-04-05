@@ -6,7 +6,9 @@
     .header{
         width: 100%;
       }
-    
+    .menu-icon {
+            display: none;
+        }  
     .heading-tag{
         width: 100%;
         position: relative;
