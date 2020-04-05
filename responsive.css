@@ -6,10 +6,12 @@
     .header{
         width: 100%;
     }
-       
+    .menu-icon {
+       display: block;
+        }  
     .heading-tag{
-          width: 100%;
-          position: relative;
+       width: 100%;
+       position: relative;
         }
           
     .heading-message { 
